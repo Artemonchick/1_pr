@@ -1,0 +1,7 @@
+C:\Users\user\source\Геймдев проекты\Практика\2\bin\Debug\2.exe.config
+C:\Users\user\source\Геймдев проекты\Практика\2\bin\Debug\2.exe
+C:\Users\user\source\Геймдев проекты\Практика\2\bin\Debug\2.pdb
+C:\Users\user\source\Геймдев проекты\Практика\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\user\source\Геймдев проекты\Практика\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\Геймдев проекты\Практика\2\obj\Debug\2.exe
+C:\Users\user\source\Геймдев проекты\Практика\2\obj\Debug\2.pdb
